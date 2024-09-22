@@ -4,4 +4,4 @@ The purpose of this repo is to explore simulations of virtual creatures living i
 These creatures have a nervous system (hardwired by genes), a genome and evolve over time to adapt to some environment.
 
 
-Testing installation.
+
